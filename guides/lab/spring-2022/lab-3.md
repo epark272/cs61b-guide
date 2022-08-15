@@ -4,6 +4,8 @@ description: IntDLists and Debugging
 
 # Lab 3
 
+Lab spec: [https://inst.eecs.berkeley.edu/\~cs61b/sp22/materials/lab/lab3/index.html](https://inst.eecs.berkeley.edu/\~cs61b/sp22/materials/lab/lab3/index.html)
+
 Welcome to lab 3! I won't be covering Git in this lab, but if you need a more comprehensive guide, you can use [this](https://inst.eecs.berkeley.edu/\~cs61b/sp22/docs/using-git.html).
 
 ## IntDList

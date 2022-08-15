@@ -9,3 +9,5 @@
     * [Lab 1](guides/lab/spring-2022/lab-1.md)
     * [Lab 2](guides/lab/spring-2022/lab-2.md)
     * [Lab 3](guides/lab/spring-2022/lab-3.md)
+    * [Lab 5](guides/lab/spring-2022/lab-5.md)
+    * [Lab 6](guides/lab/spring-2022/lab-6.md)
